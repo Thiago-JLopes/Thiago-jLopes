@@ -35,7 +35,7 @@ Sou estudante de **Sistemas de Informação** na [Universidade Federal de Juiz d
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [Thiago Jossé Lopes](www.linkedin.com/in/thiago-jose-lopes)
+- **LinkedIn:** [Thiago José Lopes](https://www.linkedin.com/in/thiago-jose-lopes)
 - **E-mail:** tiagojosecnn@outlook.com
 
 ---
