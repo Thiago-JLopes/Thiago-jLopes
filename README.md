@@ -44,5 +44,6 @@ Sou estudante de **Sistemas de Informação** na [Universidade Federal de Juiz d
 
 ## 📊 Minhas Estatísticas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-JLopes&layout=compact&theme=radical)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Thiago-JLopes&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago-JLopes&layout=compact&theme=radical)
+
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-JLopes&show_icons=true&theme=radical)
